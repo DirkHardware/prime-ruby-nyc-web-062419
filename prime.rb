@@ -9,4 +9,5 @@ def prime?(int)
     end
     x += 1
   end
+  prime_flag
 end
