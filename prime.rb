@@ -7,5 +7,6 @@ def prime?(int)
       prime_flag = false
       break
     end
+  end
     x += 1
 end
