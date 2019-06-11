@@ -2,7 +2,7 @@
 def prime?(int)
   x = 2
   prime_flag = true
-  if int < 0
+  if int <= 0
     prime_flag = false
   end
   while x <= int / 2
